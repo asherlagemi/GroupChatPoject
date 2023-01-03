@@ -1,4 +1,4 @@
-# ----------------- Asher Lagemi 210034294 & Shakedi Levin 214308025 ---------------
+# ----------------- Asher Lagemi & Shakedi Levin ---------------
 # THIS IS A CLIENT THE HAS A GUI FOR THE CHATS, IT IS BASED ON THE REGULAR CLIENT
 # THEREFORE THE ONLY WELL DOCUMENTED LINES ARE THE CHANGED ONES. FOR THE REST SEE Client.py
 

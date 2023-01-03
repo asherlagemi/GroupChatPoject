@@ -1,4 +1,4 @@
-# ----------------- Asher Lagemi 210034294 & Shakedi Levin 214308025 ---------------
+# ----------------- Asher Lagemi & Shakedi Levin ---------------
 
 import socket
 import threading
